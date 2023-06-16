@@ -18,6 +18,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
   ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
