@@ -1,58 +1,123 @@
 ![](https://komarev.com/ghpvc/?username=Muhammad123Ahmad&color=dc143c)
 
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there!</h2>
+<h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 
-<h2> 💁‍♂️ I'm Muhammad Ahmad </h2>
+<h3 align="center">
+AI Solution Engineer | Generative AI | Data Engineering | LLM Applications
+</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
+<p align="center">
+Building intelligent solutions by combining AI, data engineering, cloud technologies, and automation.
+</p>
 
-- 🎓 &nbsp; Computer Science Graduate from FAST NUCES.
-- 🤔 &nbsp; Exploring new technologies.
-- 🎧 &nbsp; "DEATH BEFORE DISGRACE, NO FEAR EXCEPT ALLAH!"
+---
 
-<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+<h3>👨🏻‍💻 About Me</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
-  ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
+- 🎓 Computer Science Graduate from FAST NUCES.
+- 💼 Currently working as an **Associate Solution Engineer at Infinytics AI**.
+- 🤖 Designing and developing **end-to-end AI and data solutions** including Generative AI applications, LLM workflows, RAG systems, and automation solutions.
+- ☁️ Working with **Azure, Snowflake, Power BI, ETL pipelines, and cloud-based architectures**.
+- 🔍 Interested in solving real-world problems using AI, Data Engineering, and emerging technologies.
+- 🎧 "DEATH BEFORE DISGRACE, NO FEAR EXCEPT ALLAH!"
 
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+---
 
-<br/>
-<br>
-<a href="https://github.com/Muhammad123Ahmad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad123Ahmad&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad123Ahmad&theme=buefy&layout=compact" />
+<h3>🚀 What I Work On</h3>
+
+- 🧠 Generative AI Applications
+- 🔎 Retrieval Augmented Generation (RAG) Systems
+- 🤖 LLM Applications & AI Agents
+- 📊 Data Engineering & ETL Pipelines
+- ❄️ Snowflake Data Solutions & Optimization
+- ☁️ Cloud-Based AI Solutions using Azure
+- 📈 Data Analytics & Visualization using Power BI
+- ⚙️ AI Automation Workflows
+
+---
+
+<h3>🛠 Tech Stack</h3>
+
+### 🤖 AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=tensorflow)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-333333?style=flat&logo=scikit-learn)
+
+### 🧠 Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-333333?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-333333?style=flat)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-333333?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-333333?style=flat)
+
+### 📊 Data Engineering & Analytics
+
+![Snowflake](https://img.shields.io/badge/Snowflake-333333?style=flat&logo=snowflake)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat)
+![Power BI](https://img.shields.io/badge/PowerBI-333333?style=flat&logo=powerbi)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-333333?style=flat)
+
+### ☁️ Cloud & Development
+
+![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=cplusplus)
+![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+
+---
+
+<h3>📌 Featured Projects</h3>
+
+🔹 **AskDoc — RAG Based AI Document Assistant**  
+AI chatbot using LLMs, embeddings, and vector databases for intelligent document search.
+
+🔹 **Meditranslater — AI Medical Translation System**  
+Real-time multilingual translation system using speech-to-text, LLM translation, and text-to-speech.
+
+🔹 **Safe Heaven — Intelligent Surveillance System**  
+Computer vision system using YOLO and activity recognition for real-time monitoring.
+
+🔹 **Snowflake ETL & Cost Optimization Platform**  
+End-to-end data pipeline with ingestion, transformation, Snowflake optimization, and analytics.
+
+---
+
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad123Ahmad&show_icons=true&theme=buefy"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad123Ahmad&layout=compact&theme=buefy"/>
+
+</p>
+
+---
+
+<h3>🤝 Connect With Me</h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-ahmad-5b5342222/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/>
-<h3> 🤝 &nbsp;Connect with Me </h3>
+<a href="mailto:muhammad192001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align='center'>
-  
-  <a href="https://api.whatsapp.com/send?phone=923363800649">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-5b5342222/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/muhammad_ahmad9098/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/muhammad192001">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="mailto:muhammad192001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
-  <p align="center"> <a href="https://twitter.com/muhammad192001" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad192001? logo=twitter&style=for-the-badge" alt="muhammad192001" /></a><p align="center"></p>
+<a href="https://github.com/Muhammad123Ahmad">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
